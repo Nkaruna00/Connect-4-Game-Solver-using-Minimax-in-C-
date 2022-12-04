@@ -12,12 +12,9 @@ Written in C++.
 ### Executing program
 
 * Run main.cpp
-* Step-by-step bullets
 
 
-## Authors
-
-
+## Author
 
 KARUNAKARAN Nithushan
 
